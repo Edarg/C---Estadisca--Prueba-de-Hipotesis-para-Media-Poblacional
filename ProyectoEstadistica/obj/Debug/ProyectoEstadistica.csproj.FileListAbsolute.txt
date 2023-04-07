@@ -1,0 +1,51 @@
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\bin\Debug\ProyectoEstadistica.exe.config
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\bin\Debug\ProyectoEstadistica.exe
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\bin\Debug\ProyectoEstadistica.pdb
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\bin\Debug\MaterialSkin.dll
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.csproj.AssemblyReference.cache
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.Form1.resources
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.Properties.Resources.resources
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.csproj.GenerateResource.cache
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.csproj.CoreCompileInputs.cache
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.csproj.CopyComplete
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.exe
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.pdb
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.Form2.resources
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.graficaUno.resources
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.GraficaDos.resources
+C:\Users\Eddy Argueta\Desktop\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.GraficaTres.resources
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\bin\Debug\ProyectoEstadistica.exe.config
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\bin\Debug\ProyectoEstadistica.exe
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\bin\Debug\MaterialSkin.dll
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.csproj.AssemblyReference.cache
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.csproj.SuggestedBindingRedirects.cache
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.Form1.resources
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.Form2.resources
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.GraficaDos.resources
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.GraficaTres.resources
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.graficaUno.resources
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.Properties.Resources.resources
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.csproj.GenerateResource.cache
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.csproj.CoreCompileInputs.cache
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.csproj.CopyComplete
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.exe
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.pdb
+C:\Users\river\OneDrive\Universidad\OneDrive\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\bin\Debug\ProyectoEstadistica.pdb
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\bin\Debug\ProyectoEstadistica.exe.config
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\bin\Debug\ProyectoEstadistica.exe
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\bin\Debug\ProyectoEstadistica.pdb
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\bin\Debug\MaterialSkin.dll
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.csproj.AssemblyReference.cache
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.Form1.resources
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.Form2.resources
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.GraficaDos.resources
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.GraficaTres.resources
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.graficaUno.resources
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.Properties.Resources.resources
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.csproj.GenerateResource.cache
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.csproj.CoreCompileInputs.cache
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.csproj.CopyComplete
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.exe
+C:\Users\Eddy Argueta\OneDrive\Escritorio\Programa Estadistica\KOLUM\ProyectoEstadistica\ProyectoEstadistica\obj\Debug\ProyectoEstadistica.pdb
